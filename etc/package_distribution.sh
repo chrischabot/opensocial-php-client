@@ -2,7 +2,7 @@
 # Script to package up the library for distribution, all pretty like
 
 svn export src opensocial-php-client
-cp LICENSE README NOTICE VERSION opensocial-php-client
+cp LICENSE README.md NOTICE VERSION opensocial-php-client
 
 version=`cat VERSION`
 zip -r opensocial-php-client-$version.zip opensocial-php-client
