@@ -148,6 +148,11 @@ phpDocumentor 1:
     phpdoc -d src -t doc -ti "OpenSocial PHP Client" -o HTML:frames:phphtmllib
 
 
+Project background
+------------------
+
+- [opensocial-php-client project overview](https://chabot.dev/projects/#opensocial) on Chris Chabot’s site.
+
 Credits and license
 -------------------
 
